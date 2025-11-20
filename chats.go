@@ -205,7 +205,11 @@ type Chat struct {
 	// Details of the information needed for execution.
 	RequiredAction *ChatRequiredAction `json:"required_action,omitempty"`
 	// Detailed information about Token consumption.
-	Usage *ChatUsage `json:"usage,omitempty"`
+	Usage                      *ChatUsage                   `json:"usage,omitempty"`
+	InsertedAdditionalMessages []*InsertedAdditionalMessage `json:"inserted_additional_messages,omitempty"`
+}
+type InsertedAdditionalMessage struct {
+	ID string `json:"id"`
 }
 
 // ChatError represents error information
