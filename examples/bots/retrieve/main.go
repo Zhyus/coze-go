@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // This examples is for describing how to retrieve a bot, fetch published bot list from the API.

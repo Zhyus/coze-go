@@ -8,8 +8,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/coze-dev/coze-go"
-	"github.com/coze-dev/coze-go/examples/websockets/util"
+	"github.com/Zhyus/coze-go"
+	"github.com/Zhyus/coze-go/examples/websockets/util"
 	"github.com/gorilla/websocket"
 )
 

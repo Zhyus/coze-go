@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // How to use personal access token to init Coze client.

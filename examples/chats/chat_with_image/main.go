@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // This examples is about how to use the streaming interface to start a chats request

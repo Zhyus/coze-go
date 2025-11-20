@@ -16,7 +16,7 @@ Key Features:
 ## Installation
 
 ```bash
-go get github.com/coze-dev/coze-go
+go get github.com/Zhyus/coze-go
 ```
 
 ## Usage

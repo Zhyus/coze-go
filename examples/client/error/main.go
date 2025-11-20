@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // This examples demonstrates how to handle different types of errors from the Coze API.

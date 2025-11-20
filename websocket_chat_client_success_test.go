@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/coze-dev/coze-go/examples/websockets/util"
+	"github.com/Zhyus/coze-go/examples/websockets/util"
 	"github.com/stretchr/testify/assert"
 )
 

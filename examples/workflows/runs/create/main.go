@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // This examples describes how to use the workflow interface to chats.

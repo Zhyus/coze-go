@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // This examples demonstrates how to initialize the Coze client with different configurations.

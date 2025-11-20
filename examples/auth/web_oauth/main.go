@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 // How to effectuate OpenAPI authorization through the OAuth authorization code method.

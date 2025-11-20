@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/coze-dev/coze-go"
+	"github.com/Zhyus/coze-go"
 )
 
 type handler struct {
