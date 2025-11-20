@@ -1,4 +1,4 @@
-module github.com/coze-dev/coze-go
+module github.com/Zhyus/coze-go
 
 go 1.18
 
